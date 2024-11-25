@@ -17,7 +17,7 @@ with open('val/mushroom.en-val.v1.jsonl', 'r') as f:
         pairs.append((data['id'], data['model_output_text'], data['model_input'], data['soft_labels']))
 
 # Define the modified prompt template
-prompt_template = "Identify the part of the hypothesis that contradicts the premise.\n\nPremise: {text1}\n\nHypothesis: {text2}"
+prompt_template = "Premise: {text1}\nHypothesis: {text2}\nIdentify the part of the hypothesis that contradicts the premise."
 
 # List to hold all predicted spans
 predicted_spans = []
