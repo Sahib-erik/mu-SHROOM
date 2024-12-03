@@ -1,0 +1,252 @@
+[
+    {
+        "input_text": "Premise: What did Petra van Staveren win a gold medal for? Hypothesis: Petra van Stoveren won a silver medal in the 2008 Summer Olympics in Beijing, China. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: How many genera does the Erysiphales order contain? Hypothesis: The Elysiphale order contains 5 genera. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: Do all arthropods have antennae? Hypothesis: Yes, all arachnids have antennas. However, not all of them are visible to the naked eye. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: When did Chance the Rapper debut? Hypothesis: Chance the rapper debuted in 2011. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: What is the UN Sustainable Development Goal 11\u2019s definition of a sustainable city? Hypothesis: The UN's Sustainable City initiative defines a city as one that is:\n- Equipped with infrastructure and services to ensure sustainable and equitable access to a range of basic services, such as water, sanitation, and electricity;\n-. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: What are the four styles of Zhejiang cuisine? Hypothesis: Zhejing cuisine is known for its unique flavors and cooking techniques. The four main styles are: 1) Jiangnan style, which is characterized by the use of rice and seafood; 2) Hangzhou style which uses a lot of vegetables and meat; the 3) Zhaozhou style that is famous for dishes made with pork; and 4) Xiamen style dishes that are influenced by Cantonese cuisine. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: If today is 14th October, and it is not a leap year, how many days remain until the end of the year? Hypothesis: There are 365 days in a year. So, if today's date is October 13th, then there are only 162 days left until December 31st. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: Which network released the TV series of the The Punisher? Hypothesis: The Puncher network that released this TV show is Netflix. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: What is the population of the Spanish region of Galicia? Hypothesis: As of 2021, the estimated population in the region is around 1.5 million people. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: How many stages of labour are there in childbirth? Hypothesis: There are typically four stages in labour: the early labour stage, the active labour phase, transition, and delivery. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: When did the merger of Takara and Tomy take place? Hypothesis: The merger between Takera and Toyo Tomo took place in 2005. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: In which country is the Salzburg Red Bull Arena? Hypothesis: The Salzberg Red bull Arena is located in Austria. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: In which country is Cilleruelo de San Mam\u00e9s located? Hypothesis: Cillerulo de san Mam\u00e9 is located in Spain. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: When did the Bleeding Kansas civil confrontations take place? Hypothesis: The Bleaching Kansas Civil Confrontations took place in the 1950s and 1960's. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: Who first described the white-winged chough? Hypothesis: The white winged cough was first discovered by the English naturalist John Latham in 1770. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: In which city were the 26th biathlon world championships held? Hypothesis:  The 26th Biathlon World Championships were held in Rasnov, Romania. The event took place from February 23 to March 5, 2013. Biathlon is a winter sport that combines cross-country skiing and rifle shooting. Competitors race while wearing cross-country skis with rifles carried over their shoulders. They must stop at specific points along the course to shoot targets with their rifles. Failure to hit all the targets within a certain time limit results in penalties, such as additional laps or extra time added to their race. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "26th biathlon world championships held in Rasnov, Romania. The 26th biathlon world championships took place from February 23 to March 5, 2013. Biathlon is a winter sport that combines cross-country skiing and rifle shooting. Competitors race while wearing cross-country skis with rifles carried over their shoulders. They must stop at specific points along the course to shoot targets with their rifles. Failure to hit all the targets within a certain time limit results in penalties, such as additional laps or extra time added to the event",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: What was the previous name of the Gillette Stadium? Hypothesis:  The previous name of Gillette Stadium was Foxboro Stadium. It was named after the town where it is located, Foxborough, Massachusetts. The stadium underwent a major renovation and expansion in 2001, during which time it was renamed after Gillette, a leading manufacturer of razors and related products, became the new primary sponsor. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: Is a graphics address redressing table a type of input-output memory management unit? Hypothesis:  A Graphics Address Redirection Table (GART) is not exactly the same as an Input-Output (I/O) Memory Management Unit (MMU), but they do share some similarities in the sense that they both deal with memory mapping and addressing.\n\nA GART is a data structure used by graphics processing units (GPUs) to translate or map the virtual addresses used by the CPU into physical addresses in video memory. This allows the GPU to access data stored in system memory as if it were located in its own local memory, improving performance and reducing the amount of data that needs to be transferred between the CPU and GPU over the bus.\n\nOn the other hand, an I/O MMU is a hardware component that manages the memory mapping for I/O devices. It translates virtual addresses used by the CPU into physical addresses in the I/O device's memory space, allowing the CPU to access I/O devices as if they were regular memory. This can help improve system performance and security by hiding the complexities of I/O addressing from the CPU and providing a more consistent memory model for software.\n\nSo while both GARTs and I/O MMUs deal with memory mapping and addressing, they serve different purposes in the system. A GART is specifically used to map virtual addresses used by the CPU for graphics operations into physical addresses in video memory, while an I/O MMU maps virtual addresses used by the CPU for I/O operations into physical addresses in the I/O device's memory space. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": ": Is a graphics address redressing table a type of input-output memory management unit? Hypothesis: A Graphics Address Redirection Table (GART) is not exactly the same as an Input-Output (I/O) Memory Management Unit (MMU), but do share some similarities in the sense that they both deal with memory mapping and addressing. A GART is a data structure used by graphics processing units (GPUs) to translate or map the virtual addresses used by the CPU into",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: When was Captain Morgan invented? Hypothesis:  Captain Morgan, the brand name for a line of rum produced by Diageo, was first introduced in the United States in 1945. However, the image of Captain Morgan as a pirate with a parrot on his shoulder did not appear until 1954. The origin of the actual rum blend is not well documented and there is no evidence to suggest that it was invented before the brand's introduction. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: In which oblast is Nizhny Tagil located? Hypothesis:  Nizhny Tagil is a city located in the Sverdlovsk Oblast (region) of Russia. It is the third-largest city in the region, after Yekaterinburg and Nizhniy Tagil. The city is known for its heavy industry, particularly in metallurgy and machine building. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: Are kremlins similar to detinets? Hypothesis:  Kremlin and Detinets are two distinct historical structures in Russia, although they are closely related and often associated with each other.\n\nThe Moscow Kremlin is a historic fortified complex at the heart of Moscow, Russia, which has served as the main residence of the Russian rulers since the 14th century. It includes various palaces, cathedrals, and administrative buildings. The Kremlin is surrounded by thick walls and towers, making it a formidable fortress.\n\nDetinets, on the other hand, was the original fortified core of the Moscow Kremlin. It was built in the late 13th century and served as the residence of the Grand Prince of Moscow and his court. Detinets means \"citadel\" or \"fortress\" in Russian. It is a smaller, more compact area within the larger Kremlin complex, which includes the Cathedral Square with its famous cathedrals such as St. Basil's Cathedral and the Archangel Michael Cathedral.\n\nSo while both structures are fortified complexes and have served residential and administrative functions, the Moscow Kremlin is a larger complex that includes Detinets as one of its parts. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: Where do Hamilton Academical F.C.'s play their home matches? Hypothesis:  Hamilton Academical Football Club plays their home matches at New Douglas Park, which is located in Hamilton, South Lanarkshire, Scotland. The stadium has a capacity of around 6,000 and has been the home ground of Hamilton Academical since 1878, making it one of the oldest football grounds in the world still in use by a single club. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: When was the municipality of Delley-Portalban created? Hypothesis:  The municipality of Delley-Portalban was created on January 1, 2004. It was formed through the merger of two neighboring communes, Delley and Portalban, as part of a wave of municipal consolidations in Switzerland. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: Which country is the World Chess Federation based in? Hypothesis:  The World Chess Federation, also known as FIDE (F\u00e9d\u00e9ration Internationale des \u00c9checs), is not based in any one specific country. It is an international organization with its headquarters currently located in Minsk, Belarus. However, it maintains offices in several countries and holds various events around the world. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: In which year were the Gampel and Bratsch municipalities merged? Hypothesis:  I apologize for any confusion, but there seems to be a missing context in your question. Gampel and Bratsch are indeed two municipalities located in the canton of Graub\u00fcnden in Switzerland. However, they were not merged into one single municipality. They have remained separate entities up until now. Therefore, there is no year to provide as an answer for this question. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: Is the Arts and Humanities Citation Index still maintained? Hypothesis:  Yes, the Arts and Humanities Citation Index (AHCI) is still maintained and updated by Clarivate Analytics. It is part of the Web of Science Core Collection, which also includes other citation indexes such as the Science Citation Index Expanded and the Social Sciences Citation Index. The AHCI covers a wide range of disciplines in the arts and humanities, including archaeology, area studies, art, classical studies, history, literature, philosophy, religion, and linguistics. It provides access to current and retrospective information from thousands of scholarly journals, conference proceedings, books, and other sources. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "Yes, the Arts and Humanities Citation Index (AHCI) is still maintained and updated by Clarivate Analytics. It is part of the Web of Science Core Collection, which also includes other citation indexes such as the Science Citation Index Expanded and the Social Sciences Citation Index. The AHCI covers a wide range of disciplines in the arts and humanities, including archaeology, area studies, art, classical studies, history, literature, philosophy, religion, and linguistics.",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: Who is the head of the FBI\u2019s White Collar Crimes Unit in the series White Collar? Hypothesis:  In the television series \"White Collar,\" which aired from 2009 to 2014, there isn't a specific character named as the head of the FBI's White Collar Crimes Unit. However, the main protagonist is Neal Caffrey (played by Matt Bomer), who is a former white-collar criminal and art forger who works as a consultant for the FBI in solving white-collar crimes. The agent in charge of overseeing Neal's work is Peter Burke (played by Tim DeKay). So, while Peter Burke isn't the head of the White Collar Crimes Unit per se, he plays a significant role in managing and coordinating the investigations. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "In the series \"White Collar,\" which aired from 2009 to 2014, there isn't a specific character named as the head of the FBI's White Collar Crimes Unit. the main protagonist is Neal Caffrey (played by Matt Bomer), who is a former white-collar criminal and art forger who works as a consultant for the FBI in solving white-collar crimes.",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: Who was the first physician to treat patients for cerebral palsy?  Hypothesis:  It is not possible to identify a single physician as the first to treat patients with cerebral palsy, as the condition was likely not recognized as a distinct entity until much later. Cerebral palsy is a group of disorders that affect muscle coordination and movement, often caused by damage to the developing brain before or during birth. The term \"cerebral palsy\" was first used in 1845 by Dr. John Hinton, but it was not until the late 19th and early 20th centuries that the condition began to be better understood and diagnosed. Early treatments for cerebral palsy focused on managing symptoms through physical therapy, orthopedic interventions, and the use of braces or other assistive devices. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "a single physician was the first to treat patients with cerebral palsy? Hypothesis: It is not possible to identify a single physician as the first to treat patients with cerebral palsy, as the condition was likely not recognized as a distinct entity until much later. Cerebral palsy is a group of disorders that affect muscle coordination and movement, often caused by damage to the developing brain before or during birth. It is not possible to identify a single physician as the first to treat patients with cerebral palsy,",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: What is the largest ethnic group in Katsina state? Hypothesis:  The largest ethnic group in Katsina State, Nigeria, is the Hausa-Fulani people. They make up the vast majority of the population in the state. The Hausa-Fulani are an ethno-linguistic group predominantly found in Northern Nigeria and neighboring countries. They are primarily farmers, traders, and herders. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: What was Valrico, Florida known as before the Civil War? Hypothesis:  Before the Civil War, Valrico, Florida was not a well-known or established settlement. The area around Valrico was originally inhabited by various Native American tribes, including the Seminoles. The first European settlers arrived in the mid-1800s, and the community began to develop after the completion of the Tampa-Hillsborough Railroad in 1885. Therefore, there is no recorded history of Valrico before the Civil War. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: How big is a western oriole? Hypothesis:  A Western Oriole is a medium-sized bird, with an average length of 15.3 cm (6 inches) and a wingspan of around 20.3 cm (8 inches). They weigh between 19-34 grams (0.7-1.2 ounces). Their bill is long and curved, typically measuring about 3.5 cm (1.4 inches) in length. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: Was windows neptune ever released? Hypothesis:  No, Windows Neptune was not released. It was an internal project by Microsoft that aimed to merge the user interfaces of Windows XP and Windows Tablet PC Edition into a single operating system. The project was later merged with another project called Windows Longhorn, which eventually became Windows Vista. However, neither Neptune nor Longhorn were released as standalone products; instead, their features were incorporated into Windows Vista, which was released in January 2007. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: Is Chris Claremont the sole writer of Days of Future Past? Hypothesis:  No, Chris Claremont did not write the entire \"Days of Future Past\" story on his own. The original X-Men comic book storyline, which was published in issues #141-142 of Uncanny X-Men in 1981, was written by Chris Claremont and illustrated by John Byrne. However, the alternative future sequences were drawn by Terry Austin, and other artists contributed to the later adaptations of this story into other media formats like animation and film. So while Claremont's role is significant, it's important to acknowledge the contributions of other creators involved in bringing \"Days of Future Past\" to life. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "Chris Claremont is the sole writer of Days of Future Past? Hypothesis: No, Chris Claremont did not write the entire \"Days of Future Past\" storyline on his own. The original X-Men comic book storyline, which was published in issues #141-142 of Uncanny X-Men in 1981, was written by Chris Claremont and illustrated by John Byrne. However, the alternative future sequences were drawn by Terry Austin, and other artists contributed to the later adaptations of",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: When was Toru\u0144 part of the Hanseatic League? Hypothesis:  Toru\u0144, also known as Thorn in German, was a member of the Hanseatic League from approximately 1260 until its expulsion in 1524. The Hanseatic League was a commercial and defensive confederation of merchant guilds and market towns in Northwestern and Central Europe. Toru\u0144's membership in the league contributed significantly to its economic growth during the Middle Ages. Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: In which US state is Posey County located? Hypothesis:  Pposey is located in the state of Indiana.\n Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: What is the home stadium of FC Zhenis? Hypothesis:  FC Zenit-2 Saint Petersburg\n Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: Which town is H\u00fcffelsheim partnered with? Hypothesis:  H\u00e4fen\n Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: What are the two factions in Bruce Sterling\u2019s \u201cSchismatrix\u201d? Hypothesis:  The two sides are called the \u201cSect\u201d and the \"Heretics\".\n Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: What is the head town of the 12 de Octubre Department in Argentina? Hypothesis:  12 Octobre\n Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: When was the Swedish Navy founded? Hypothesis:  The Swedish navy was founded in 1625.\n Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: What\u2019s the real name of Edu Manga? Hypothesis:  Eduardo Mango\n Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: Who did Dave Franco play in Scrubs? Hypothesis:  Dave played the role of Zack in the first season of Scary Movie 5.\n Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: How many groups are compared in a case\u2013control study? Hypothesis:  A case-control design is a study design where cases are people who have a disease and controls are healthy people. In a typical case control study, the researcher will compare the DNA of people with the disease to the same type of DNA from healthy controls.\n Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: Explain what is the Sakya Trizin in a few words. Hypothesis:  The SakYA TriZIN is a TIBETAN BUDDHIST MONK who serves as the head of the SAKYA sect of Tibetan Buddhism. He is also the current head lama of SakYABooks.com\n Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: When did Jef Raskin die? Hypothesis:  Jefs Rakins died on March 1, 2011. He was 88 years old.\n Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: Which Roman emperors were born in Lugdunum? Hypothesis:  The Roman emperor Augustus was born at the city of Lugudunon in 43 BC.\n Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: When was Bischofsheim a constitutent community of Mainz? Hypothesis:  Bishofshain was a constituent community in the early Middle Ages.\n Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: What name was Gregory III Laham given at birth? Hypothesis:  Gregory Lahm\n Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: Who was the father of Carl L\u00f6wenhielm? Hypothesis:  Carl Gustaf Bernhard L\u00f6nneber, Carl-Gustaf L:son Bernh:m, was born in Stockholm, Sweden, on March 4, 1786.\n Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    },
+    {
+        "input_text": "Premise: Which municipalities does the Italian commune of Ponzone border? Hypothesis:  Ponza\n Identify hallucinated spans in the hypothesis.",
+        "predicted_text": "",
+        "gold_target": ""
+    }
+]

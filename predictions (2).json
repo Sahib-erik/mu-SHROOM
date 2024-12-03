@@ -1,0 +1,252 @@
+[
+    {
+        "input_text": "Premise: What did Petra van Staveren win a gold medal for? Hypothesis: Petra van Stoveren won a silver medal in the 2008 Summer Olympics in Beijing, China. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[St: 0.2] [o: 0.3] [veren: 0.2] [silver: 0.9] [ medal: 0.1] [2008: 1.0] [ Summer Olympics: 0.3] [ in : 0.2] [Beijing, China: 0.9]"
+    },
+    {
+        "input_text": "Premise: How many genera does the Erysiphales order contain? Hypothesis: The Elysiphale order contains 5 genera. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[Elysiphale: 0.2] [5: 1.0] [ genera: 0.2]"
+    },
+    {
+        "input_text": "Premise: Do all arthropods have antennae? Hypothesis: Yes, all arachnids have antennas. However, not all of them are visible to the naked eye. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[Yes: 0.6] [, all: 0.4] [ : 0.2] [arachnids: 0.6] [ have : 0.3] [antennas: 0.4] [. : 0.1] [However, : 0.4] [not all of them are : 0.5] [visible: 0.7] [ to the : 0.5] [naked eye: 0.7]"
+    },
+    {
+        "input_text": "Premise: When did Chance the Rapper debut? Hypothesis: Chance the rapper debuted in 2011. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[debuted in : 0.0909090909] [2011: 0.5454545455]"
+    },
+    {
+        "input_text": "Premise: What is the UN Sustainable Development Goal 11\u2019s definition of a sustainable city? Hypothesis: The UN's Sustainable City initiative defines a city as one that is:\n- Equipped with infrastructure and services to ensure sustainable and equitable access to a range of basic services, such as water, sanitation, and electricity;\n-. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[The UN's : 0.0909090909] [Sustainable City initiative: 0.2727272727] [ defines a city as one that is:\n- : 0.1818181818] [Equipped with infrastructure and services to : 0.5454545455] [ensure sustainable: 0.6363636364] [ and : 0.5454545455] [equitable: 0.8181818182] [ access: 0.7272727273] [ to a : 0.6363636364] [range of basic services: 0.7272727273] [, such as water, sanitation, and : 0.6363636364] [electricity: 0.7272727273]"
+    },
+    {
+        "input_text": "Premise: What are the four styles of Zhejiang cuisine? Hypothesis: Zhejing cuisine is known for its unique flavors and cooking techniques. The four main styles are: 1) Jiangnan style, which is characterized by the use of rice and seafood; 2) Hangzhou style which uses a lot of vegetables and meat; the 3) Zhaozhou style that is famous for dishes made with pork; and 4) Xiamen style dishes that are influenced by Cantonese cuisine. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[Zhejing: 0.2727272727] [ cuisin: 0.0909090909] [known for: 0.0909090909] [unique flavors: 0.0909090909] [cooking techniques: 0.0909090909] [1) : 0.0909090909] [Jiangnan: 1.0] [ style: 0.4545454545] [, which is : 0.3636363636] [characterized by: 0.4545454545] [ the : 0.3636363636] [use: 0.4545454545] [ of : 0.3636363636] [rice: 0.8181818182] [ and : 0.3636363636] [seafood: 0.6363636364] [which : 0.1818181818] [uses a : 0.3636363636] [lot of : 0.4545454545] [vegetables: 0.8181818182] [ and : 0.4545454545] [meat: 0.9090909091] [; the 3) : 0.0909090909] [Zhaozhou: 0.9090909091] [ style that is : 0.2727272727] [famous for: 0.3636363636] [ : 0.2727272727] [dishes made: 0.3636363636] [ with : 0.2727272727] [pork: 0.8181818182] [; and 4) : 0.0909090909] [Xiamen: 0.9090909091] [ style dishes that are : 0.2727272727] [influenced by: 0.3636363636] [ : 0.2727272727] [Cantonese: 0.7272727273] [ cuisine: 0.4545454545]"
+    },
+    {
+        "input_text": "Premise: If today is 14th October, and it is not a leap year, how many days remain until the end of the year? Hypothesis: There are 365 days in a year. So, if today's date is October 13th, then there are only 162 days left until December 31st. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[There are : 0.1] [365 days: 0.2] [ in a year. So, if today's date is : 0.1] [October : 0.4] [13th: 0.9] [, then there are only : 0.1] [162: 1.0] [ days: 0.3] [ left until December 31st: 0.1]"
+    },
+    {
+        "input_text": "Premise: Which network released the TV series of the The Punisher? Hypothesis: The Puncher network that released this TV show is Netflix. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[The : 0.2727272727] [Puncher: 0.8181818182] [ network: 0.1818181818] [Netflix: 0.0909090909]"
+    },
+    {
+        "input_text": "Premise: What is the population of the Spanish region of Galicia? Hypothesis: As of 2021, the estimated population in the region is around 1.5 million people. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[As : 0.0909090909] [of : 0.1818181818] [2021: 0.5454545455] [, the estimated population in the region : 0.0909090909] [is around : 0.1818181818] [1.5: 0.8181818182] [ million: 0.7272727273] [ people: 0.4545454545]"
+    },
+    {
+        "input_text": "Premise: How many stages of labour are there in childbirth? Hypothesis: There are typically four stages in labour: the early labour stage, the active labour phase, transition, and delivery. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[There are typically four stages in labour: : 0.0909090909] [the : 0.5454545455] [early labour: 0.9090909091] [ stage: 0.8181818182] [, the : 0.6363636364] [active labou: 0.9090909091] [r phase, : 0.8181818182] [transition: 1.0] [, and : 0.7272727273] [delivery: 0.8181818182]"
+    },
+    {
+        "input_text": "Premise: When did the merger of Takara and Tomy take place? Hypothesis: The merger between Takera and Toyo Tomo took place in 2005. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[e: 0.2222222222] [and : 0.1111111111] [Toyo Tomo: 0.4444444444] [ : 0.1111111111] [took place in : 0.2222222222] [200: 0.7777777778] [5: 0.8888888889]"
+    },
+    {
+        "input_text": "Premise: In which country is the Salzburg Red Bull Arena? Hypothesis: The Salzberg Red bull Arena is located in Austria. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[Salzberg: 0.125] [b: 0.125]"
+    },
+    {
+        "input_text": "Premise: In which country is Cilleruelo de San Mam\u00e9s located? Hypothesis: Cillerulo de san Mam\u00e9 is located in Spain. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[Cillerulo: 0.2] [ de san : 0.1] [Mam\u00e9: 0.2]"
+    },
+    {
+        "input_text": "Premise: When did the Bleeding Kansas civil confrontations take place? Hypothesis: The Bleaching Kansas Civil Confrontations took place in the 1950s and 1960's. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[Bleaching: 0.6363636364] [Civil Confrontations: 0.0909090909] [in the : 0.1818181818] [1: 0.8181818182] [9: 0.9090909091] [50s: 0.8181818182] [ : 0.6363636364] [and : 0.7272727273] [1: 0.8181818182] [96: 0.9090909091] [0: 0.8181818182] [': 0.6363636364] [s: 0.7272727273]"
+    },
+    {
+        "input_text": "Premise: Who first described the white-winged chough? Hypothesis: The white winged cough was first discovered by the English naturalist John Latham in 1770. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[cough: 0.3] [first : 0.1] [discovered: 0.2] [ by the : 0.1] [English: 1.0] [ naturalist: 0.3] [ : 0.1] [John : 0.9] [Latham: 1.0] [ in : 0.4] [1: 0.8] [770: 1.0]"
+    },
+    {
+        "input_text": "Premise: In which city were the 26th biathlon world championships held? Hypothesis:  The 26th Biathlon World Championships were held in Rasnov, Romania. The event took place from February 23 to March 5, 2013. Biathlon is a winter sport that combines cross-country skiing and rifle shooting. Competitors race while wearing cross-country skis with rifles carried over their shoulders. They must stop at specific points along the course to shoot targets with their rifles. Failure to hit all the targets within a certain time limit results in penalties, such as additional laps or extra time added to their race. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "26th biathlon world championships held in Rasnov, Romania. event took place from 23 to 5 mars 2013.",
+        "gold_target": "[Rasnov, Romania: 1.0] [. The event took place : 0.1] [from : 0.2] [February : 0.6] [23: 0.9] [ to : 0.5] [March 5, 2013: 0.9] [. : 0.3] [Biathlon is a winter sport that combines cross-country skiing and rifle shooting: 0.4] [. : 0.3] [Competitors race while wearing cross-country skis with rifles : 0.4] [carried over their shoulders: 0.5] [. They must stop at specific points along the course to shoot targets with their rifles. Failure to hit all the targets within a certain time limit results in penalties, such as additional laps or extra time added to their race: 0.4]"
+    },
+    {
+        "input_text": "Premise: What was the previous name of the Gillette Stadium? Hypothesis:  The previous name of Gillette Stadium was Foxboro Stadium. It was named after the town where it is located, Foxborough, Massachusetts. The stadium underwent a major renovation and expansion in 2001, during which time it was renamed after Gillette, a leading manufacturer of razors and related products, became the new primary sponsor. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[The : 0.1111111111] [previous name of : 0.2222222222] [Gillette Stadium: 0.3333333333] [ was : 0.2222222222] [Foxboro Stadium: 0.8888888889] [. It was : 0.2222222222] [named after: 0.4444444444] [ the town where it is located: 0.3333333333] [, : 0.2222222222] [Foxborough, Massachusetts: 0.3333333333] [. : 0.1111111111] [The : 0.2222222222] [stadium : 0.3333333333] [underwent a major renovation and expansion in : 0.4444444444] [2001: 0.6666666667] [, during which time: 0.2222222222] [ it was renamed after Gillette, : 0.1111111111] [a leading manufacturer of : 0.2222222222] [razors: 0.3333333333] [ and related products: 0.2222222222] [, became the new primary sponsor: 0.1111111111]"
+    },
+    {
+        "input_text": "Premise: Is a graphics address redressing table a type of input-output memory management unit? Hypothesis:  A Graphics Address Redirection Table (GART) is not exactly the same as an Input-Output (I/O) Memory Management Unit (MMU), but they do share some similarities in the sense that they both deal with memory mapping and addressing.\n\nA GART is a data structure used by graphics processing units (GPUs) to translate or map the virtual addresses used by the CPU into physical addresses in video memory. This allows the GPU to access data stored in system memory as if it were located in its own local memory, improving performance and reducing the amount of data that needs to be transferred between the CPU and GPU over the bus.\n\nOn the other hand, an I/O MMU is a hardware component that manages the memory mapping for I/O devices. It translates virtual addresses used by the CPU into physical addresses in the I/O device's memory space, allowing the CPU to access I/O devices as if they were regular memory. This can help improve system performance and security by hiding the complexities of I/O addressing from the CPU and providing a more consistent memory model for software.\n\nSo while both GARTs and I/O MMUs deal with memory mapping and addressing, they serve different purposes in the system. A GART is specifically used to map virtual addresses used by the CPU for graphics operations into physical addresses in video memory, while an I/O MMU maps virtual addresses used by the CPU for I/O operations into physical addresses in the I/O device's memory space. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[A Graphics Address : 0.1] [Redirection: 0.2] [ Table (GART) is : 0.1] [not: 0.7] [ exactly: 0.6] [ the same: 0.4] [ as a: 0.2] [n: 0.3] [ Input-Output (I/O) Memory Management Unit (: 0.2] [MMU: 0.3] [), : 0.2] [but: 0.5] [ they do share some similarities in the sense that they both deal with memory mapping and addressing: 0.4] [.\n\nA GART is a : 0.3] [data structure: 0.5] [ used by graphics processing units (GPUs) : 0.3] [to : 0.4] [translate or map the virtual addresses used by the CPU into physical addresses in video memory: 0.5] [. This allows the GPU to access data stored in system memory as if it were located in its own local memory, : 0.4] [improving performance: 0.5] [ and : 0.4] [reducing the amount of data: 0.6] [ that needs to be transferred : 0.4] [between the CPU and GPU over the bus: 0.5] [.\n\n: 0.2] [On the other hand, an I/O MMU is a hardware component that manages the memory mapping for I/O devic: 0.3] [es. It translates virtual addresses used by the CPU into physical addresses in the I/O device's memory space, allowing the CPU to access I/O devices as if they were regular memory. This can help improve system performance and security by : 0.2] [hiding the complexities of I/O addressing from the CPU and providing a more consistent memory model for software: 0.3] [.\n\nSo while both GARTs and I/O MMUs deal with memory mapping and addressing, : 0.2] [they serve different purposes in the system. : 0.3] [A GART is specifically used to map virtual addresses used by the CPU for graphics operations into physical addresses in video memory: 0.4] [, while an I/O MMU maps virtual addresses used by the CPU for I/O operations into physical addresses in the I/O device's memory spa: 0.3] [c: 0.1]"
+    },
+    {
+        "input_text": "Premise: When was Captain Morgan invented? Hypothesis:  Captain Morgan, the brand name for a line of rum produced by Diageo, was first introduced in the United States in 1945. However, the image of Captain Morgan as a pirate with a parrot on his shoulder did not appear until 1954. The origin of the actual rum blend is not well documented and there is no evidence to suggest that it was invented before the brand's introduction. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "rum blend was first introduced in the united states in 1945. but the image of Captain Morgan as a pirate with a parrot on his shoulder did not appear until 1954.",
+        "gold_target": "[19: 0.9] [45: 1.0] [. However, : 0.4] [the : 0.5] [image: 0.6] [ of Captain Morgan as a : 0.5] [pirate : 0.8] [with a parrot: 0.9] [ on his shoulder: 0.8] [ : 0.7] [did not appear: 0.9] [ until : 0.8] [1954: 1.0] [. : 0.2] [The : 0.4] [origin: 0.6] [ of the actual rum blend is : 0.5] [not: 0.8] [ well documented: 0.7] [ and : 0.3] [there is : 0.4] [no evidence to suggest: 0.6] [ that it was : 0.5] [invented before the brand's introduction: 0.6]"
+    },
+    {
+        "input_text": "Premise: In which oblast is Nizhny Tagil located? Hypothesis:  Nizhny Tagil is a city located in the Sverdlovsk Oblast (region) of Russia. It is the third-largest city in the region, after Yekaterinburg and Nizhniy Tagil. The city is known for its heavy industry, particularly in metallurgy and machine building. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[Oblast: 0.1] [region: 0.1] [I: 0.1] [t is t: 0.2] [he : 0.3] [third-largest: 0.8] [ city: 0.7] [ in the region: 0.6] [, : 0.4] [after : 0.5] [Yekaterinburg: 0.7] [ and : 0.6] [Nizhniy Tagil: 0.9] [. The city is known for its : 0.1] [heavy: 0.2] [ industry, particularly in metallurgy : 0.1] [and : 0.2] [machine building: 0.6]"
+    },
+    {
+        "input_text": "Premise: Are kremlins similar to detinets? Hypothesis:  Kremlin and Detinets are two distinct historical structures in Russia, although they are closely related and often associated with each other.\n\nThe Moscow Kremlin is a historic fortified complex at the heart of Moscow, Russia, which has served as the main residence of the Russian rulers since the 14th century. It includes various palaces, cathedrals, and administrative buildings. The Kremlin is surrounded by thick walls and towers, making it a formidable fortress.\n\nDetinets, on the other hand, was the original fortified core of the Moscow Kremlin. It was built in the late 13th century and served as the residence of the Grand Prince of Moscow and his court. Detinets means \"citadel\" or \"fortress\" in Russian. It is a smaller, more compact area within the larger Kremlin complex, which includes the Cathedral Square with its famous cathedrals such as St. Basil's Cathedral and the Archangel Michael Cathedral.\n\nSo while both structures are fortified complexes and have served residential and administrative functions, the Moscow Kremlin is a larger complex that includes Detinets as one of its parts. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "kremlins are similar to detinets, but they are closely related and often associated with each other. the Moscow Kremlin is a historic fortified complex at the heart of Moscow, Russia, which has served as the main residence of the Russian rulers since the 14th century.",
+        "gold_target": "[Kremlin and : 0.1111111111] [Detinets: 0.2222222222] [two distinct: 0.1111111111] [historical structures in Russia: 0.1111111111] [hough they are : 0.1111111111] [closely related and often associated with each other: 0.2222222222] [.\n\nThe Moscow Kremlin is a historic fortified complex : 0.1111111111] [at the : 0.2222222222] [heart: 0.3333333333] [ of Moscow, Russia: 0.2222222222] [, which has served as the : 0.1111111111] [main residence of the Russian rulers since the 14th century. : 0.2222222222] [It includes various palaces, : 0.3333333333] [cathedrals, and: 0.4444444444] [ : 0.3333333333] [administrative buildings: 0.4444444444] [. The Kremlin is : 0.2222222222] [surrounded by thick: 0.3333333333] [ : 0.2222222222] [walls and towers: 0.3333333333] [, making it: 0.2222222222] [ a formidable fortress.\n\n: 0.1111111111] [Detinets, : 0.4444444444] [on the other hand, was : 0.5555555556] [the original fortified core of the Moscow Kremlin. It was built in the : 0.6666666667] [late 13th century: 0.7777777778] [ and : 0.6666666667] [served as the residence of the Grand Prince of: 0.7777777778] [ M: 0.6666666667] [oscow: 0.7777777778] [ and his court: 0.6666666667] [. Detinets : 0.2222222222] [means \"citadel\" or: 0.3333333333] [ \": 0.1111111111] [fortress: 0.2222222222] [\" : 0.1111111111] [in Russian. : 0.2222222222] [It is a smaller, more compact area within the larger Kremlin complex, which : 0.5555555556] [includes : 0.6666666667] [the Cathedral Square with its famous cathedrals such as St. Basil's Cathedral and the Archangel Michael Cathedral: 0.7777777778] [.\n\nSo while bot: 0.5555555556] [h structures are fortified complexes : 0.4444444444] [and have served residential and administrative functions, the: 0.5555555556] [ Mosco: 0.4444444444] [w Kremlin is a larger complex : 0.3333333333] [that : 0.4444444444] [includes Detinets as one of its part: 0.5555555556] [s: 0.4444444444]"
+    },
+    {
+        "input_text": "Premise: Where do Hamilton Academical F.C.'s play their home matches? Hypothesis:  Hamilton Academical Football Club plays their home matches at New Douglas Park, which is located in Hamilton, South Lanarkshire, Scotland. The stadium has a capacity of around 6,000 and has been the home ground of Hamilton Academical since 1878, making it one of the oldest football grounds in the world still in use by a single club. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[at New Douglas Park: 0.1] [in Hamilton, South Lanarkshire, Scotland: 0.2] [6,000: 0.1] [Hamilton Academical: 0.1] [since : 0.1] [1878: 0.8] [, : 0.5] [making: 0.6] [ : 0.5] [it one: 0.6] [ of the : 0.5] [oldest: 0.8] [ football: 0.6] [ : 0.5] [grounds in: 0.6] [ the : 0.5] [world: 0.6] [ still in use by a single club: 0.5]"
+    },
+    {
+        "input_text": "Premise: When was the municipality of Delley-Portalban created? Hypothesis:  The municipality of Delley-Portalban was created on January 1, 2004. It was formed through the merger of two neighboring communes, Delley and Portalban, as part of a wave of municipal consolidations in Switzerland. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[created on : 0.1] [January 1, : 0.3] [200: 0.9] [4: 1.0] [neighboring : 0.1] [communes: 0.2] [as : 0.5] [part of a : 0.6] [wave: 0.7] [ of : 0.6] [municipal consolidations: 0.7] [ in Switzerland: 0.6]"
+    },
+    {
+        "input_text": "Premise: Which country is the World Chess Federation based in? Hypothesis:  The World Chess Federation, also known as FIDE (F\u00e9d\u00e9ration Internationale des \u00c9checs), is not based in any one specific country. It is an international organization with its headquarters currently located in Minsk, Belarus. However, it maintains offices in several countries and holds various events around the world. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[i: 0.2727272727] [s : 0.3636363636] [not based: 0.9090909091] [ : 0.8181818182] [in any: 0.9090909091] [ : 0.8181818182] [one specific: 0.9090909091] [ : 0.8181818182] [country: 0.9090909091] [t is an international organization with its headquarters currently located in : 0.0909090909] [Minsk, Belarus: 1.0] [maintains offices: 0.5454545455] [ in : 0.4545454545] [several countries: 0.5454545455] [ and: 0.0909090909] [holds: 0.0909090909] [events: 0.0909090909]"
+    },
+    {
+        "input_text": "Premise: In which year were the Gampel and Bratsch municipalities merged? Hypothesis:  I apologize for any confusion, but there seems to be a missing context in your question. Gampel and Bratsch are indeed two municipalities located in the canton of Graub\u00fcnden in Switzerland. However, they were not merged into one single municipality. They have remained separate entities up until now. Therefore, there is no year to provide as an answer for this question. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[I apologize for any confusion, but there seems to be a missing context in your question: 0.3] [. Gampel and Bratsch are indeed two municipalities : 0.2] [located in the canton of : 0.3] [Graub\u00fcnden: 0.6] [ in Switzerland. : 0.2] [However, : 0.5] [t: 0.7] [hey : 0.8] [were : 0.9] [not: 1.0] [ merged: 0.9] [ into one single municipality. They : 0.8] [have remained: 0.9] [ separate entities up until : 0.8] [now: 0.9] [. Therefore, there is : 0.5] [no: 0.7] [ year to provide as an answer: 0.6] [ for this question: 0.5]"
+    },
+    {
+        "input_text": "Premise: Is the Arts and Humanities Citation Index still maintained? Hypothesis:  Yes, the Arts and Humanities Citation Index (AHCI) is still maintained and updated by Clarivate Analytics. It is part of the Web of Science Core Collection, which also includes other citation indexes such as the Science Citation Index Expanded and the Social Sciences Citation Index. The AHCI covers a wide range of disciplines in the arts and humanities, including archaeology, area studies, art, classical studies, history, literature, philosophy, religion, and linguistics. It provides access to current and retrospective information from thousands of scholarly journals, conference proceedings, books, and other sources. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "Yes, the Arts and Humanities Citation Index (AHCI) is still maintained and updated by Clarivate Analytics. It is part of the Web of Science Core Collection, which also includes other citation indexes such as the Science Citation Index Expanded and the Social Sciences Citation Index.",
+        "gold_target": "[Yes: 0.1] [the Arts and Humanities Citation Index (AHCI: 0.1] [Clarivate Analytics: 0.3] [Core Collection: 0.6] [, : 0.3] [which : 0.4] [also : 0.5] [includes: 0.6] [ other: 0.5] [ : 0.4] [citation indexes: 0.5] [ such as: 0.4] [ the : 0.3] [Science Citation: 0.6] [ : 0.5] [Index: 0.6] [ Expanded: 0.5] [ and the : 0.3] [Social Sciences: 0.5] [ : 0.4] [Citation Index: 0.5] [AHCI: 0.1] [arts and humanities: 0.1] [area studies: 0.6] [classical studies: 0.1] [literature: 0.4] [thousands: 0.1] [conference proceedings: 0.5] [, books: 0.1]"
+    },
+    {
+        "input_text": "Premise: Who is the head of the FBI\u2019s White Collar Crimes Unit in the series White Collar? Hypothesis:  In the television series \"White Collar,\" which aired from 2009 to 2014, there isn't a specific character named as the head of the FBI's White Collar Crimes Unit. However, the main protagonist is Neal Caffrey (played by Matt Bomer), who is a former white-collar criminal and art forger who works as a consultant for the FBI in solving white-collar crimes. The agent in charge of overseeing Neal's work is Peter Burke (played by Tim DeKay). So, while Peter Burke isn't the head of the White Collar Crimes Unit per se, he plays a significant role in managing and coordinating the investigations. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[there : 0.4] [isn't: 0.8] [ a : 0.4] [specific character: 0.5] [ named: 0.4] [ as the head: 0.3] [ of the FBI's White Collar Crimes Unit: 0.2] [. : 0.1] [However: 0.2] [, the : 0.1] [main protagonist is Neal Caffrey: 0.2] [ (played by Matt Bomer), who is a : 0.1] [former white-collar: 0.2] [ criminal and : 0.1] [art: 0.3] [ forger: 0.2] [ who works as a consultant for the FBI in solving white-collar crimes. The agent in charge of : 0.1] [overseeing Neal's work is Peter Burke (played by Tim DeKay: 0.2] [). : 0.1] [So, : 0.3] [while: 0.4] [ : 0.2] [Peter Burke : 0.3] [is: 0.7] [n't: 0.8] [ the head of the White Collar Crimes Unit: 0.3] [ : 0.2] [per se: 0.5] [, he plays a significant role in managing and coordinating the investigations: 0.3]"
+    },
+    {
+        "input_text": "Premise: Who was the first physician to treat patients for cerebral palsy?  Hypothesis:  It is not possible to identify a single physician as the first to treat patients with cerebral palsy, as the condition was likely not recognized as a distinct entity until much later. Cerebral palsy is a group of disorders that affect muscle coordination and movement, often caused by damage to the developing brain before or during birth. The term \"cerebral palsy\" was first used in 1845 by Dr. John Hinton, but it was not until the late 19th and early 20th centuries that the condition began to be better understood and diagnosed. Early treatments for cerebral palsy focused on managing symptoms through physical therapy, orthopedic interventions, and the use of braces or other assistive devices. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "a single physician was the first to treat patients with cerebral palsy? Hypothesis: Who was the first physician to treat patients with cerebral palsy?",
+        "gold_target": "[It is : 0.3333333333] [not possible: 0.6666666667] [ to : 0.4444444444] [identify a: 0.5555555556] [ single physician: 0.4444444444] [ as the first to treat patients with cerebral palsy: 0.2222222222] [, : 0.1111111111] [as the condition was likely : 0.2222222222] [not : 0.3333333333] [recognized as a distinct entity: 0.4444444444] [ until much later: 0.3333333333] [. Cerebral palsy is a group of disorders that affect muscle coordination and movement, : 0.1111111111] [often: 0.2222222222] [ caused by damage to the developing brain before or : 0.1111111111] [during: 0.2222222222] [ birth. : 0.1111111111] [The term \"cerebral palsy\" : 0.2222222222] [was first used in : 0.3333333333] [1845: 1.0] [ by : 0.4444444444] [Dr. John Hinton: 1.0] [, but it was not until the : 0.2222222222] [late: 0.3333333333] [ 19th and early 20th centuries that the condition began to be better understood and diagnosed: 0.2222222222] [. : 0.1111111111] [Early: 0.3333333333] [ treatments for cerebral palsy focused on managing symptoms through physical therapy, orthopedic interventions, and : 0.1111111111] [the use of braces or other assistive devices: 0.2222222222]"
+    },
+    {
+        "input_text": "Premise: What is the largest ethnic group in Katsina state? Hypothesis:  The largest ethnic group in Katsina State, Nigeria, is the Hausa-Fulani people. They make up the vast majority of the population in the state. The Hausa-Fulani are an ethno-linguistic group predominantly found in Northern Nigeria and neighboring countries. They are primarily farmers, traders, and herders. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[Hausa: 0.0909090909] [Fulani: 0.9090909091] [ people: 0.2727272727] [. : 0.0909090909] [They make up the : 0.1818181818] [vast: 0.3636363636] [ majority: 0.2727272727] [ of the population in the state. : 0.1818181818] [The : 0.2727272727] [Hausa: 0.3636363636] [-: 0.2727272727] [Fulani: 0.7272727273] [ are an ethno-linguistic group : 0.2727272727] [predominantly found: 0.4545454545] [ in Northern Nigeria and neighboring countries. : 0.3636363636] [They are primarily : 0.5454545455] [farmers: 0.7272727273] [, : 0.6363636364] [traders: 0.7272727273] [, and : 0.5454545455] [herders: 0.7272727273]"
+    },
+    {
+        "input_text": "Premise: What was Valrico, Florida known as before the Civil War? Hypothesis:  Before the Civil War, Valrico, Florida was not a well-known or established settlement. The area around Valrico was originally inhabited by various Native American tribes, including the Seminoles. The first European settlers arrived in the mid-1800s, and the community began to develop after the completion of the Tampa-Hillsborough Railroad in 1885. Therefore, there is no recorded history of Valrico before the Civil War. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "Identify spans and probabilities that contradict the....................................................",
+        "gold_target": "[Before the Civil War, Valrico, Florida was : 0.1818181818] [not a well: 0.9090909091] [-known : 0.8181818182] [or established settlement: 0.9090909091] [. The : 0.2727272727] [area around Valrico was : 0.3636363636] [originally : 0.7272727273] [inhabited by various : 0.9090909091] [Native American tribes: 1.0] [, including the : 0.8181818182] [Seminoles: 1.0] [. The : 0.3636363636] [first European settlers: 1.0] [ arrived in the : 0.7272727273] [mid: 0.9090909091] [-1800s: 0.8181818182] [, and the community began to develop : 0.3636363636] [after the completion of the : 0.4545454545] [Tampa-Hillsborough: 1.0] [ Railroad: 0.9090909091] [ in : 0.8181818182] [1885: 1.0] [. Therefore: 0.4545454545] [, : 0.3636363636] [there is : 0.5454545455] [no recorded: 0.7272727273] [ history of Valrico before the Civil War: 0.6363636364]"
+    },
+    {
+        "input_text": "Premise: How big is a western oriole? Hypothesis:  A Western Oriole is a medium-sized bird, with an average length of 15.3 cm (6 inches) and a wingspan of around 20.3 cm (8 inches). They weigh between 19-34 grams (0.7-1.2 ounces). Their bill is long and curved, typically measuring about 3.5 cm (1.4 inches) in length. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[A Western Oriole is a : 0.1] [medium-sized: 0.5] [ bird, : 0.2] [with: 0.3] [ : 0.2] [a: 0.3] [n : 0.4] [average: 0.5] [ length of : 0.4] [15.3: 1.0] [ cm (: 0.7] [6: 1.0] [ inches: 0.7] [) : 0.4] [and a : 0.5] [wingspan: 0.9] [ of around : 0.7] [20.3: 1.0] [ cm (: 0.9] [8: 1.0] [ inches: 0.9] [). They weigh between : 0.3] [19-34: 0.9] [ grams (: 0.6] [0.7-1.2: 0.9] [ ounces: 0.6] [). : 0.2] [Their : 0.3] [bill: 0.8] [ is : 0.4] [long: 0.8] [ and : 0.7] [curved: 0.8] [, typically measuring about : 0.4] [3.5: 0.8] [ cm (: 0.7] [1.4: 0.8] [ inches: 0.7] [) in length: 0.5]"
+    },
+    {
+        "input_text": "Premise: Was windows neptune ever released? Hypothesis:  No, Windows Neptune was not released. It was an internal project by Microsoft that aimed to merge the user interfaces of Windows XP and Windows Tablet PC Edition into a single operating system. The project was later merged with another project called Windows Longhorn, which eventually became Windows Vista. However, neither Neptune nor Longhorn were released as standalone products; instead, their features were incorporated into Windows Vista, which was released in January 2007. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[internal project by : 0.1] [Microsoft : 0.2] [that : 0.3] [aimed to : 0.4] [merge the user interfa: 0.6] [ces: 0.7] [ of : 0.6] [Windows : 0.7] [XP: 0.9] [ : 0.6] [and : 0.7] [Windows : 0.9] [Tablet PC: 1.0] [ Edition: 0.9] [ into a : 0.6] [single operating: 0.7] [ system: 0.6] [. : 0.1] [The : 0.2] [project was : 0.3] [later : 0.4] [merged with another project called : 0.5] [Windows : 0.6] [Longhorn: 0.8] [, which eventually : 0.4] [became Windows : 0.6] [Vista: 0.8] [. However, : 0.1] [neither: 0.3] [ N: 0.2] [eptune : 0.3] [nor : 0.4] [Longhorn: 0.7] [ were released as standalone products; instead, their: 0.3] [ features were incorporated into : 0.2] [Windows : 0.5] [Vista: 0.8] [, which w: 0.4] [as released in : 0.5] [January 2007: 0.7]"
+    },
+    {
+        "input_text": "Premise: Is Chris Claremont the sole writer of Days of Future Past? Hypothesis:  No, Chris Claremont did not write the entire \"Days of Future Past\" story on his own. The original X-Men comic book storyline, which was published in issues #141-142 of Uncanny X-Men in 1981, was written by Chris Claremont and illustrated by John Byrne. However, the alternative future sequences were drawn by Terry Austin, and other artists contributed to the later adaptations of this story into other media formats like animation and film. So while Claremont's role is significant, it's important to acknowledge the contributions of other creators involved in bringing \"Days of Future Past\" to life. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "Chris Claremont was the sole writer of \"Days of Future Past\". he did not write the entire storyline on his own.",
+        "gold_target": "[The original X-Men comic book storyline, which was : 0.1111111111] [published in issues #141-142: 0.3333333333] [ of Uncanny X-Men in : 0.2222222222] [1981: 0.3333333333] [, was written by Chris Claremont : 0.1111111111] [and : 0.2222222222] [illustrated by: 0.5555555556] [ John Byrne: 0.3333333333] [However, : 0.3333333333] [t: 0.4444444444] [he : 0.5555555556] [alternative future sequences were drawn by Terry Austin: 0.7777777778] [, and other artists contributed to the later adaptations of this story into other media formats like : 0.2222222222] [animation and film: 0.3333333333] [. So while Claremont's role is significant, it's important to acknowledge the contributions of : 0.1111111111] [other creators involved in bringing \"Days of Future Past\" to life: 0.2222222222]"
+    },
+    {
+        "input_text": "Premise: When was Toru\u0144 part of the Hanseatic League? Hypothesis:  Toru\u0144, also known as Thorn in German, was a member of the Hanseatic League from approximately 1260 until its expulsion in 1524. The Hanseatic League was a commercial and defensive confederation of merchant guilds and market towns in Northwestern and Central Europe. Toru\u0144's membership in the league contributed significantly to its economic growth during the Middle Ages. Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[in German: 0.1818181818] [Hanseatic League from : 0.0909090909] [a: 0.2727272727] [pproximately : 0.3636363636] [1260: 0.5454545455] [ until its : 0.3636363636] [expulsion in : 0.4545454545] [1524: 1.0] [. T: 0.0909090909] [he : 0.1818181818] [Hanseatic: 0.2727272727] [ League was a : 0.1818181818] [commercial and defensive: 0.3636363636] [ confederation of merchant guilds and market towns in : 0.2727272727] [N: 0.3636363636] [orthwestern: 0.4545454545] [ and Central Europe: 0.2727272727] [. : 0.1818181818] [Toru\u0144's membership in the league : 0.2727272727] [c: 0.3636363636] [ontributed significantly to its economic growth during the Middle Ages: 0.4545454545]"
+    },
+    {
+        "input_text": "Premise: In which US state is Posey County located? Hypothesis:  Pposey is located in the state of Indiana.\n Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[P: 0.5454545455] [p: 0.8181818182] [osey: 0.4545454545] [Indiana: 0.0909090909]"
+    },
+    {
+        "input_text": "Premise: What is the home stadium of FC Zhenis? Hypothesis:  FC Zenit-2 Saint Petersburg\n Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[FC : 0.7272727273] [Zenit-: 0.9090909091] [2: 1.0] [ : 0.9090909091] [Saint Petersbur: 1.0] [g: 0.9090909091]"
+    },
+    {
+        "input_text": "Premise: Which town is H\u00fcffelsheim partnered with? Hypothesis:  H\u00e4fen\n Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[H\u00e4fen: 1.0]"
+    },
+    {
+        "input_text": "Premise: What are the two factions in Bruce Sterling\u2019s \u201cSchismatrix\u201d? Hypothesis:  The two sides are called the \u201cSect\u201d and the \"Heretics\".\n Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[The two sides are called the \u201c: 0.1111111111] [Sect: 1.0] [\u201d and the \": 0.1111111111] [Heretics: 1.0]"
+    },
+    {
+        "input_text": "Premise: What is the head town of the 12 de Octubre Department in Argentina? Hypothesis:  12 Octobre\n Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[12 Octobre: 0.9090909091]"
+    },
+    {
+        "input_text": "Premise: When was the Swedish Navy founded? Hypothesis:  The Swedish navy was founded in 1625.\n Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[The Swedish navy : 0.0909090909] [was founded in : 0.1818181818] [1625: 1.0]"
+    },
+    {
+        "input_text": "Premise: What\u2019s the real name of Edu Manga? Hypothesis:  Eduardo Mango\n Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[Mango: 0.9090909091]"
+    },
+    {
+        "input_text": "Premise: Who did Dave Franco play in Scrubs? Hypothesis:  Dave played the role of Zack in the first season of Scary Movie 5.\n Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[Dave played the role : 0.1] [of : 0.2] [Zack: 1.0] [ in the : 0.5] [first: 0.8] [ season: 0.7] [ of : 0.5] [Scary Movie 5: 1.0]"
+    },
+    {
+        "input_text": "Premise: How many groups are compared in a case\u2013control study? Hypothesis:  A case-control design is a study design where cases are people who have a disease and controls are healthy people. In a typical case control study, the researcher will compare the DNA of people with the disease to the same type of DNA from healthy controls.\n Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[A case-control design is a study design where : 0.1] [cases: 0.2] [ are people who have a disease and : 0.1] [controls are : 0.3] [healthy: 0.6] [ people: 0.3] [. In a : 0.1] [typical case control study, : 0.2] [the researcher will : 0.4] [compare the : 0.5] [DNA: 0.8] [ of people with the disease to the same type of : 0.4] [DNA: 0.7] [ : 0.4] [from : 0.5] [healthy: 0.8] [ controls: 0.5]"
+    },
+    {
+        "input_text": "Premise: Explain what is the Sakya Trizin in a few words. Hypothesis:  The SakYA TriZIN is a TIBETAN BUDDHIST MONK who serves as the head of the SAKYA sect of Tibetan Buddhism. He is also the current head lama of SakYABooks.com\n Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[The : 0.1] [Sak: 0.4] [YA: 0.5] [ : 0.3] [Tri: 0.4] [ZIN: 0.5] [T: 0.3] [IBETAN: 0.4] [ B: 0.3] [UDDHIST: 0.4] [ : 0.3] [MONK: 0.6] [ who serves as: 0.1] [S: 0.2] [AKYA : 0.3] [sect: 0.6] [He: 0.2] [ is also the : 0.1] [current head: 0.4] [ : 0.3] [lama: 0.7] [ of : 0.3] [SakYABooks.com: 0.9]"
+    },
+    {
+        "input_text": "Premise: When did Jef Raskin die? Hypothesis:  Jefs Rakins died on March 1, 2011. He was 88 years old.\n Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[Jef: 0.2727272727] [s: 0.3636363636] [ Rakin: 0.2727272727] [s: 0.3636363636] [ died on: 0.0909090909] [March 1: 1.0] [, : 0.9090909091] [2011: 1.0] [88: 0.9090909091]"
+    },
+    {
+        "input_text": "Premise: Which Roman emperors were born in Lugdunum? Hypothesis:  The Roman emperor Augustus was born at the city of Lugudunon in 43 BC.\n Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[The Roman : 0.1] [emperor: 0.2] [ : 0.1] [Augustus: 0.7] [ was : 0.2] [born at the city of : 0.3] [Lugudunon: 0.6] [ : 0.5] [in : 0.6] [43 BC: 0.8]"
+    },
+    {
+        "input_text": "Premise: When was Bischofsheim a constitutent community of Mainz? Hypothesis:  Bishofshain was a constituent community in the early Middle Ages.\n Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[Bishofshain: 0.3636363636] [was a constituent community : 0.0909090909] [in : 0.1818181818] [the : 0.2727272727] [early: 0.8181818182] [ : 0.7272727273] [Middle: 0.8181818182] [ : 0.7272727273] [Ages: 0.8181818182]"
+    },
+    {
+        "input_text": "Premise: What name was Gregory III Laham given at birth? Hypothesis:  Gregory Lahm\n Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[Gregory: 1.0] [ Lah: 0.6] [m: 0.7]"
+    },
+    {
+        "input_text": "Premise: Who was the father of Carl L\u00f6wenhielm? Hypothesis:  Carl Gustaf Bernhard L\u00f6nneber, Carl-Gustaf L:son Bernh:m, was born in Stockholm, Sweden, on March 4, 1786.\n Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[Carl : 0.5555555556] [Gustaf : 0.8888888889] [Bernhard: 1.0] [ L\u00f6: 0.7777777778] [nneber: 0.8888888889] [, : 0.7777777778] [Carl-Gustaf L:: 0.8888888889] [son: 1.0] [ : 0.8888888889] [Bernh: 1.0] [:: 0.8888888889] [m: 1.0] [, was born in Stockholm: 0.2222222222] [, Sweden, : 0.1111111111] [on : 0.3333333333] [March 4: 1.0] [, : 0.8888888889] [1786: 1.0]"
+    },
+    {
+        "input_text": "Premise: Which municipalities does the Italian commune of Ponzone border? Hypothesis:  Ponza\n Identify spans and probabilities that contradict the premise.",
+        "predicted_text": "",
+        "gold_target": "[Ponza: 0.9090909091]"
+    }
+]
